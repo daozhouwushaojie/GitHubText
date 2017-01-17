@@ -1,0 +1,3 @@
+class GitHubText{
+	String name;
+}
